@@ -1,16 +1,19 @@
 ## Hi there, I`m Mikhail 👋
 
-<!--
-**ShuldyakovMikhail/ShuldyakovMikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a business analyst.
 
-Here are some ideas to get you started:
+Business Analyst focused on translating business needs into clear, structured requirements.
+Strong analytical thinking, process modeling skills, and a data-driven approach.
+Open to new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills and tools.
+• Collection and formalization of requirements 
+• User Stories, Use Cases
+• BPMN, UML
+• Description of business processes AS-IS/TO-BE
+• Lo Fi prototyping
+• SQL
+• Excel/Google Sheets
+• Miro
+• Draw.io
+• Figma
